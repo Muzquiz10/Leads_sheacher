@@ -89,5 +89,31 @@ Envío a Psicólogos
 06/02
 Envío a Psicólogos
 
+09/02
+
+Psicólogos terminado
+
+10/02
+Envío a comercios random encontrados en Google Maps
+
+Con la API buscar mails de:
+
+- Centros de salud:
+	- Clínicas dentales
+	- Clínicas estéticas
+
+- Restaurantes
+- Inmobiliarias
+-Centros deportivos:
+	- Gimnasios
+	- CrossFit
+	- Estudios de yoga/pilates
+	- Clubs deportivos privados
+- Asesorías:
+	-Asesorías fiscales
+	- Gestorías
+	- Despachos laborales
+	- Consultores locales
+
 
 
