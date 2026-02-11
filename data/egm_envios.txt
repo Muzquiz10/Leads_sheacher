@@ -115,5 +115,8 @@ Con la API buscar mails de:
 	- Despachos laborales
 	- Consultores locales
 
+11/02 
+Buscado leads de hoteles y dentistas con Outscraper 
+Enviado mail a 20 dentistas con script de python
 
 
