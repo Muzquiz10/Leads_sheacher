@@ -119,4 +119,11 @@ Con la API buscar mails de:
 Buscado leads de hoteles y dentistas con Outscraper 
 Enviado mail a todos los dentistas con script python
 
+12 y 13/02
+enviado mails a hoteles
+
+15/02
+Envio a dentistas
+
+
 
